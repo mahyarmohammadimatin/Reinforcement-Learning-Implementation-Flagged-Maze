@@ -1,3 +1,4 @@
+<img src="https://github.com/mahyarmohammadimatin/Reinforcement-Learning-Implementation-Flagged-Maze/blob/main/pic.png">
 ## Repository Contents:
 
 ### Model State Determination and Reduction:
