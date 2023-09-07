@@ -1,6 +1,6 @@
 <img src="https://github.com/mahyarmohammadimatin/Reinforcement-Learning-Implementation-Flagged-Maze/blob/main/pic.png">
-## Repository Contents:
 
+## Repository Contents:
 ### Model State Determination and Reduction:
 1. Number of model states depends on the environment size.
 2. Reducing states through equivalence of certain positions.
